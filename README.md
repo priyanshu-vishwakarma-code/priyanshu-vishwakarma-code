@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Priyanshu Vishwakarma
 
-<!--
-**priyanshu-vishwakarma-code/priyanshu-vishwakarma-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning software development and computer science fundamentals
+* Currently focused on C++, Data Structures & Algorithms, and Web Development
+* Building projects to apply what I learn and improve problem-solving skills
+* Sharing my learning journey through GitHub
+
+## Currently Working On
+
+* JavaScript fundamentals
+* Data Structures & Algorithms
+* Frontend Web Development
+* Git and GitHub workflows
+
+## Tools & Technologies
+
+* C
+* C++
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* VS Code
+
+## Reach Me
+
+* GitHub: github.com/priyanshu-vishwakarma-code
+* Email: [priyanshu.vishwakarma.code@gmail.com](mailto:priyanshu.vishwakarma.code@gmail.com)
